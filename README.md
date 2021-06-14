@@ -1,7 +1,7 @@
 # SMP's Revival
 A 16x medieval fantasy resource pack for Minecraft. Originally created by SMP. Maintained by the staff of the Akenland server, then forked by yours truly.
 
-This branch is the **Minecraft 1.14** version of the pack, hopefully soon to be 1.16.
+This branch is feature-complete up to **Minecraft 1.14** and will get bits and pieces of future versions as they come.
 
 ## External Links
 * [Official Website](https://revival.akenland.com)
